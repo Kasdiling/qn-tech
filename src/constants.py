@@ -15,7 +15,7 @@ PI_COIN_VALUE = 314159  # Fixed value of Pi Coin in USD
 PI_COIN_SUPPLY = 100_000_000_000  # Total supply of Pi Coin
 
 # Pi Coin Transaction Fee
-PI_COIN_TRANSACTION_FEE = 0.01  # Transaction fee in USD
+PI_COIN_TRANSACTION_FEE = 0.0001  # Transaction fee in USD
 
 # Pi Coin Block Time
 PI_COIN_BLOCK_TIME = 10  # Average block time in seconds
